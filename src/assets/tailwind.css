@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-height: 650px;
+    background-color: #FBFBFB;
+    /* width: 400px; */
+}
